@@ -442,6 +442,8 @@ Stack Exchange 已经成长到[超过一百个网站](http://stackexchange.com/s
 
 ### RTFM 和 STFW：如何知道你已完全搞砸了
 
+<a id="rtfm"></a>
+
 有一个古老而神圣的传统：如果你收到`RTFM （Read The Fucking Manual）`的回应，回答者认为你**应该去读他妈的手册**。当然，基本上他是对的，你应该去读一读。
 
 RTFM 有一个年轻的亲戚。如果你收到`STFW（Search The Fucking Web）`的回应，回答者认为你**应该到他妈的网上搜索**。那人多半也是对的，去搜索一下吧。（更温和一点的说法是 **[Google 是你的朋友](http://lmgtfy.com/)**！）
